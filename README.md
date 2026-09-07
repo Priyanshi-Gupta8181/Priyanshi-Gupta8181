@@ -18,10 +18,11 @@
 
 💡 I enjoy turning ideas into practical projects while continuously improving my programming and analytical skills.
 
-- 💻 Building projects with **Java and Python**
-- 🧠 Strengthening **Data Structures & Algorithms** through regular problem solving
+- 💻 Building projects using **Java and Python**
+- 🧠 Strengthening problem-solving through **DSA practice**
 - 📊 Exploring **Data Science, SQL, and Machine Learning fundamentals**
-- 🌐 Learning modern development tools including **JavaScript, Git, and GitHub**
+- 🌐 Learning **JavaScript** and modern development workflows
+- 🐙 Using **Git & GitHub** for version control and project collaboration
 - 🤝 Open to collaborating on **beginner to intermediate projects and open-source work**
 - 🚀 Focused on writing **clean, efficient, and maintainable code**
 - 🎯 Working towards becoming a **skilled software and data professional**
@@ -50,7 +51,7 @@
 - 🤖 **Machine Learning Fundamentals**
 - 🧹 **Clean Code & Exception Handling**
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 - 🐙 **Git & GitHub**
 - 💙 **VS Code**
@@ -63,7 +64,7 @@
 - 📚 Practicing **DSA in Java**
 - ☕ Building and improving **Java-based projects**
 - 🐍 Strengthening **Python programming**
-- 🗄️ Practicing **SQL queries and database concepts**
+- 🗄️ Practicing **SQL and database concepts**
 - 📊 Exploring **Data Science and Machine Learning**
 - 🟨 Learning **JavaScript fundamentals**
 - 🐙 Improving my **Git & GitHub workflow**
@@ -74,8 +75,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Priyanshi-Gupta8181&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyanshi-Gupta8181&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Priyanshi-Gupta8181&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyanshi-Gupta8181&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -91,17 +93,18 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshi-Gupta8181&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshi-Gupta8181&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🎯 Goals
 
-- 🎓 Become stronger in **DSA & problem solving**
+- 🎓 Strengthen **DSA & problem-solving skills**
 - 💻 Build more **real-world software projects**
+- 🐍 Improve **Python programming**
+- 🗄️ Become confident with **SQL & databases**
 - 📊 Develop practical **Data Science skills**
-- 🗄️ Become proficient in **SQL & databases**
 - 🚀 Contribute to **Open Source**
 - 🤝 Collaborate with other developers
 - 💼 Prepare for **internships and placements**
