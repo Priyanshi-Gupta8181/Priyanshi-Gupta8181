@@ -14,25 +14,25 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **B.Tech CSE (Data Science) Student** with a strong interest in software development, problem solving, and data-driven technologies.
+🎓 **B.Tech CSE (Data Science) Student** with an interest in software development, problem solving, and data-driven technologies.
 
-💡 I enjoy turning ideas into practical projects while continuously improving my programming and analytical skills.
+💡 I enjoy building practical projects and learning technologies that help me turn ideas into useful applications.
 
-- 💻 Building projects using **Java and Python**
-- 🧠 Strengthening problem-solving through **DSA practice**
+- 💻 Developing projects using **Java and Python**
+- 🧠 Strengthening **Data Structures & Algorithms** through regular problem solving
 - 📊 Exploring **Data Science, SQL, and Machine Learning fundamentals**
-- 🌐 Learning **JavaScript** and modern development workflows
-- 🐙 Using **Git & GitHub** for version control and project collaboration
-- 🤝 Open to collaborating on **beginner to intermediate projects and open-source work**
-- 🚀 Focused on writing **clean, efficient, and maintainable code**
-- 🎯 Working towards becoming a **skilled software and data professional**
+- 🌐 Learning **JavaScript, HTML, CSS, and Node.js** for web development
+- 🐙 Using **Git and GitHub** for version control and project collaboration
+- 🤝 Open to collaborating on **Java/Python projects and beginner-friendly open-source work**
+- 🚀 Focused on improving **coding, problem solving, and development skills**
+- 🎯 Working towards a career in **software development and data-driven technologies**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,nodejs,mysql,git,github,vscode&theme=dark&perline=5" />
 </p>
 
 ### 💻 Programming & Development
@@ -41,19 +41,23 @@
 - 🐍 **Python**
 - 💻 **C**
 - 🟨 **JavaScript**
-- 🗄️ **SQL / MySQL**
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- 🟢 **Node.js**
 
-### 🧠 Computer Science & Data
+### 📊 Data & Computer Science
 
 - 📚 **Data Structures & Algorithms**
-- 🧩 **Problem Solving**
+- 🧠 **Problem Solving**
+- 🗄️ **SQL / MySQL**
 - 📊 **Data Science Fundamentals**
 - 🤖 **Machine Learning Fundamentals**
 - 🧹 **Clean Code & Exception Handling**
 
 ### 🔧 Tools & Platforms
 
-- 🐙 **Git & GitHub**
+- 🔀 **Git**
+- 🐙 **GitHub**
 - 💙 **VS Code**
 - 💻 **LeetCode**
 
@@ -62,13 +66,13 @@
 ## 🚀 What I'm Currently Working On
 
 - 📚 Practicing **DSA in Java**
-- ☕ Building and improving **Java-based projects**
+- ☕ Building **Java-based projects**
 - 🐍 Strengthening **Python programming**
 - 🗄️ Practicing **SQL and database concepts**
 - 📊 Exploring **Data Science and Machine Learning**
-- 🟨 Learning **JavaScript fundamentals**
+- 🌐 Learning **HTML, CSS, JavaScript, and Node.js**
 - 🐙 Improving my **Git & GitHub workflow**
-- 🌐 Exploring **Open Source Projects**
+- 🤝 Exploring opportunities to contribute to **Open Source**
 
 ---
 
@@ -101,10 +105,10 @@
 ## 🎯 Goals
 
 - 🎓 Strengthen **DSA & problem-solving skills**
-- 💻 Build more **real-world software projects**
-- 🐍 Improve **Python programming**
+- ☕ Become stronger in **Java development**
+- 🐍 Improve **Python and Data Science skills**
 - 🗄️ Become confident with **SQL & databases**
-- 📊 Develop practical **Data Science skills**
+- 🌐 Build practical **web and backend projects**
 - 🚀 Contribute to **Open Source**
 - 🤝 Collaborate with other developers
 - 💼 Prepare for **internships and placements**
