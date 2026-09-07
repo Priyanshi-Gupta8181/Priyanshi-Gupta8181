@@ -14,17 +14,17 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **B.Tech CSE (Data Science) Student** with an interest in software development, problem solving, and data-driven technologies.
+🎓 **B.Tech CSE (Data Science) Student** with a growing interest in software development, problem solving, and data-driven technologies.
 
-💡 I enjoy building practical projects and learning technologies that help me turn ideas into useful applications.
+💡 I enjoy building practical projects, exploring new technologies, and continuously improving my programming and analytical skills.
 
-- 💻 Developing projects using **Java and Python**
-- 🧠 Strengthening **Data Structures & Algorithms** through regular problem solving
-- 📊 Exploring **Data Science, SQL, and Machine Learning fundamentals**
-- 🌐 Learning **JavaScript, HTML, CSS, and Node.js** for web development
-- 🐙 Using **Git and GitHub** for version control and project collaboration
+- 💻 Building projects with **Java and Python**
+- 🧠 Strengthening problem-solving skills through **DSA**
+- 📊 Exploring **Data Science, SQL, and Machine Learning**
+- 🌐 Learning **JavaScript, HTML, CSS, and Node.js**
+- 🐙 Using **Git & GitHub** for version control and collaboration
 - 🤝 Open to collaborating on **Java/Python projects and beginner-friendly open-source work**
-- 🚀 Focused on improving **coding, problem solving, and development skills**
+- 🚀 Focused on writing **clean, efficient, and maintainable code**
 - 🎯 Working towards a career in **software development and data-driven technologies**
 
 ---
@@ -32,7 +32,7 @@
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,nodejs,mysql,git,github,vscode&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,nodejs,mysql,git,github,vscode&theme=dark&perline=6" />
 </p>
 
 ### 💻 Programming & Development
@@ -41,8 +41,7 @@
 - 🐍 **Python**
 - 💻 **C**
 - 🟨 **JavaScript**
-- 🌐 **HTML5**
-- 🎨 **CSS3**
+- 🌐 **HTML5 & CSS3**
 - 🟢 **Node.js**
 
 ### 📊 Data & Computer Science
@@ -106,7 +105,7 @@
 
 - 🎓 Strengthen **DSA & problem-solving skills**
 - ☕ Become stronger in **Java development**
-- 🐍 Improve **Python and Data Science skills**
+- 🐍 Improve **Python & Data Science skills**
 - 🗄️ Become confident with **SQL & databases**
 - 🌐 Build practical **web and backend projects**
 - 🚀 Contribute to **Open Source**
@@ -121,19 +120,13 @@
 <p align="center">
 
 <a href="https://instagram.com/priyanshiii8181">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/priyanshi-gupta8181">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:priyanshigupta8604397327@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="mailto:priyanshigupta8181@gmail.com">
-  <img src="https://img.shields.io/badge/Secondary%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a><a href="https://www.linkedin.com/in/priyanshi-gupta8181">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="mailto:priyanshigupta8604397327@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a><a href="mailto:priyanshigupta8181@gmail.com">
+<img src="https://img.shields.io/badge/SECONDARY%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
