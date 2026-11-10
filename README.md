@@ -119,9 +119,8 @@
 
 <p align="center">
 
-<a href="https://instagram.com/priyanshiii8181">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a><a href="https://www.linkedin.com/in/priyanshi-gupta8181">
+
+<a href="https://www.linkedin.com/in/priyanshi-gupta8181">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a><a href="mailto:priyanshigupta8604397327@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
